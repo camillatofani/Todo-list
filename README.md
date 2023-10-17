@@ -8,5 +8,5 @@ For clone
 Before start
 `npm install`
 
-Starting with
+To start
 `npm run dev`
