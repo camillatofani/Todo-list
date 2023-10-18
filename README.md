@@ -31,6 +31,6 @@ If you want to see the final you can click here https://todo-list-with-react-and
 ### Contact
 <a name="contact"></a>
 
-LinkedIn https://www.linkedin.com/in/camilla-tofani/
-My Personal https://www.camillatofani.it/
-GitHub https://github.com/camillatofani
+1. LinkedIn https://www.linkedin.com/in/camilla-tofani/
+2. My Personal https://www.camillatofani.it/
+3. GitHub https://github.com/camillatofani
